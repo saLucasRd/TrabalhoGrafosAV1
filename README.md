@@ -1,4 +1,4 @@
-# Trabalho de Grafos: Flood Fill com DFS em Python (8 Vizinhos)
+# Trabalho de Grafos: Flood Fill com DFS 
 
 Este projeto tem como objetivo implementar o algoritmo Flood Fill utilizando exclusivamente a abordagem recursiva DFS (Depth-First Search) em Python. A ideia central é modificar uma região de uma imagem 1000x1000 pixels, substituindo a cor original por uma nova cor, considerando os 8 vizinhos (acima, abaixo, esquerda, direita e as diagonais).
 
